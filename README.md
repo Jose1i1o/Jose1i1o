@@ -68,7 +68,10 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jose1i1o&show_icons=true&theme=highcontrast)
   
-<figure><embed src="https://wakatime.com/share/@Jose1i1o/f923fe77-9fcc-47a3-8aca-e4434b439cd0.svg"></embed></figure>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jose1i1o&layout=compact)](https://github.com/Jose1i1o/github-readme-stats)
+  
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@ose1i1o)](https://github.com/Jose1i1o/github-readme-stats)
+
 
 </details>
 
