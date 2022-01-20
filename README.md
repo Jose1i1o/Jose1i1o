@@ -64,7 +64,7 @@
 <summary>Github Statistics...</summary>
 <details>
   <p align="center">
-    <im src="https://github-readme-stats.vercel.app/api?username=Jose1i1o&show_icons=true&theme=highcontrast"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=Jose1i1o&show_icons=true&theme=highcontrast"/>
     </p>
 </details>
 
