@@ -1,5 +1,6 @@
-# <h1 align="center">Hi 👋, I'm Jose</h1>
-## <h3 align="center">EMBA | BI | Full-Stack Dev (wip)</h3>
+  <h2 align="center">Hi 👋, I'm Jose <br />(EMBA | BI | Full-Stack Dev[wip])</h2>
+
+<a href="https://www.linkpicture.com/view.php?img=LPic61e9a6f3a416c681489755"><img src="https://www.linkpicture.com/q/githubcover.png" type="image"></a>
 
 - 🔭 I’m currently working to upgrade my skills as a software developer at [Assembler Institute of Technology](https://www.linkedin.com/school/assembler-institute-technology/).
 
