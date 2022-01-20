@@ -62,15 +62,16 @@
 ---
 
 <summary>Github Statistics...</summary>
-
 <details>
   <p align="center">
     <im src="https://github-readme-stats.vercel.app/api?username=Jose1i1o&show_icons=true&theme=highcontrast"/>
     </p>
 </details>
+
 <summary>Language Statistics...</summary>
+<details>
   <p align="center">
-    <img src="https://wakatime.com/share/@Jose1i1o/cc5ad8a1-4791-4143-b4ce-6f4bb9c22834.svg" height="400"/>
+    <img src="https://wakatime.com/share/@Jose1i1o/e2aa477e-4019-4816-8258-6dca086fdb95.svg" height="400"/>
     </p>
 </details>
 
