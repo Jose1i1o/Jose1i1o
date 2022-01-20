@@ -63,16 +63,11 @@
 
 ---
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
+<summary>:zap: GitHub Stats</summary>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jose1i1o&show_icons=true&theme=highcontrast)
-  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jose1i1o&layout=compact)](https://github.com/Jose1i1o/github-readme-stats)
-  
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@ose1i1o)](https://github.com/Jose1i1o/github-readme-stats)
 
-
-</details>
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 [linkedin]: https://www.linkedin.com/in/jose--valenzuela/
