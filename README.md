@@ -59,7 +59,7 @@
 <br />
 <br />
 
-<figure><embed src="https://wakatime.com/share/@Jose1i1o/8f46b289-ac5a-42c3-a467-919f31aed174.svg"></embed></figure>
+<figure><embed src="https://wakatime.com/share/@Jose1i1o/f923fe77-9fcc-47a3-8aca-e4434b439cd0.svg"></embed></figure>
 
 ---
 
@@ -68,7 +68,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jose1i1o&show_icons=true&theme=highcontrast)
   
-<figure><embed src="https://wakatime.com/share/@Jose1i1o/8f46b289-ac5a-42c3-a467-919f31aed174.svg"></embed></figure>
+<figure><embed src="https://wakatime.com/share/@Jose1i1o/f923fe77-9fcc-47a3-8aca-e4434b439cd0.svg"></embed></figure>
 
 </details>
 
