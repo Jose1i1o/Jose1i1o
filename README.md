@@ -66,7 +66,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jose1i1o&show_icons=true&theme=highcontrast)
   
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Jose1i1o)](https://github.com/Jose1i1o/github-readme-stats)
 
 
 
