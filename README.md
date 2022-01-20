@@ -66,11 +66,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jose1i1o&show_icons=true&theme=highcontrast)
   
-  <!--START_SECTION:waka-->
-  
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Jose1i1o)](https://github.com/Jose1i1o/github-readme-stats)
-
-<!--END_SECTION:waka-->
+<!--START_SECTION:waka--><!--END_SECTION:waka-->
 
 </details>
 
