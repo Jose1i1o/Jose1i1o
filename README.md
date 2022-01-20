@@ -1,8 +1,13 @@
   <h2 align="center">Hi 👋, I'm Jose <br />(EMBA | BI | Full-Stack Dev[wip])</h2>
 
-<a href="https://www.linkpicture.com/view.php?img=LPic61e9a9935d7481932462280"><img src="https://www.linkpicture.com/q/githubcover_1.png" type="image"></a>
+<a href="https://www.linkpicture.com/view.php?img=LPic61e9a9935d7481932462280"><img src="https://www.linkpicture.com/q/githubcover_1.png" width="1200" type="image"></a>
 
 - 🔭 I’m currently working to upgrade my skills as a software developer at [Assembler Institute of Technology](https://www.linkedin.com/school/assembler-institute-technology/).
+
+Determined to help ramp-up cash-flow and net benefits in a challenging COVID-19 scenario. I have work experience in a very international environment together with an excellent resource, team and time management skills. My goal is to achieve the greatest impact in the shortest possible time. Agile, decisive, strategic and innovative and at the same time an entrepreneur, hard worker, empathic and multitasker.
+
+During the last years, I assisted +2,900 clients and +900 different companies and allies. I have experience in team management, managing projects from the feasibility stage, consultations, to approval for start-up, contract negotiation, IT knowledge in a wide range of languages, marketing, delivery, commission and start.
+
 
 - 🌱 I’m currently learning **everything. The next step will be next.js, laravel (digging deeper) and typescript.**
 
@@ -14,9 +19,9 @@
 
 - 💬 What are my areas of interest and expertise? **👨🏻‍🎤 Software Development | 🚀 E-commerce & Digital | 📊 Data Analyst | 🕊 Graphic Design | 👨‍⚖️ Project Management | 💼 Business Development & Strategic Implementation | 👨‍👩‍👧‍👦 People & Talent Management**
 
-- 📄 Know about my experiences 🌎 World Traveler. Last 14 years I lived, either working or studying, in Spain, Ireland, Scotland, Germany, Denmark and England. I really do enjoy different cultures and people from all walks of life.
+- 🌎 World Traveler. Last 14 years I lived, either working or studying, in Spain, Ireland, Scotland, Germany, Denmark and England. I really do enjoy different cultures and people from all walks of life.
 
-- ⚡ Fun fact **I once fought against a wild boar 🐗**
+- ⚡ Fun fact: **I once fought against a wild boar 🐗**
 
 - 📫 How to reach me **guadix88@gmail.com**
 
