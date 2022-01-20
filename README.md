@@ -1,4 +1,4 @@
-  <h2 align="center">Hi 👋, I'm Jose <br />(EMBA | BI | Full-Stack Dev[wip])</h2>
+  <h2 align="center">Hi 👋, I'm Jose <br />EMBA | BI | Full-Stack Dev[wip]</h2>
 
 <a href="https://www.linkpicture.com/view.php?img=LPic61e9a9935d7481932462280"><img src="https://www.linkpicture.com/q/githubcover_1.png" width="1200" type="image"></a>
 
