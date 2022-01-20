@@ -59,6 +59,8 @@
 <br />
 <br />
 
+<figure><embed src="https://wakatime.com/share/@Jose1i1o/8f46b289-ac5a-42c3-a467-919f31aed174.svg"></embed></figure>
+
 ---
 
 <details>
