@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working to upgrade my skills as a software developer at [Assembler Institute of Technology](https://www.linkedin.com/school/assembler-institute-technology/) until 18th Feb ´22.
 
-Determined to help ramp-up cash-flow and net benefits in a challenging COVID-19 scenario. I have work experience in a very international environment together with an excellent resource, team and time management skills. My goal is to achieve the greatest impact in the shortest possible time. Agile, decisive, strategic and innovative and at the same time an entrepreneur, hard worker, empathic and multitasker.
+I have work experience in a very international environment together with an excellent resource, team and time management skills. My goal is to achieve the greatest impact in the shortest possible time. Agile, decisive, strategic and innovative and at the same time an entrepreneur, hard worker, empathic and multitasker.
 
 During the last years, I assisted +2,900 clients and +900 different companies and allies. I have experience in team management, managing projects from the feasibility stage, consultations, to approval for start-up, contract negotiation, IT knowledge in a wide range of languages, marketing, delivery, commission and start.
 <br />
