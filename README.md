@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Jose - aka [Jose1i1o]
+# 👋 Hi there, I'm Jose
 
 ### - In the past 1´5 years I have completed an EMBA and I am about to end a Software Developer Master.
 ### - I am also inmerse in helping 4 different companies in their e-commerce strategy.
