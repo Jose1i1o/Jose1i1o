@@ -59,15 +59,19 @@
 <br />
 <br />
 
-<figure><embed src="https://wakatime.com/share/@Jose1i1o/f923fe77-9fcc-47a3-8aca-e4434b439cd0.svg"></embed></figure>
-
 ---
 
-<summary>:zap: GitHub Stats</summary>
+<summary>Github Statistics...</summary>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jose1i1o&show_icons=true&theme=highcontrast)
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+<details>
+  <p align="center">
+    <im src="https://github-readme-stats.vercel.app/api?username=Jose1i1o&show_icons=true&theme=highcontrast"/>
+    </p>
+</details>
+<summary>Language Statistics...</summary>
+  <p align="center">
+    <img src="https://wakatime.com/share/@Jose1i1o/cc5ad8a1-4791-4143-b4ce-6f4bb9c22834.svg" height="400"/>
+    </p>
+</details>
 
 [linkedin]: https://www.linkedin.com/in/jose--valenzuela/
