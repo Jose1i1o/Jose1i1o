@@ -1,12 +1,21 @@
 name: Work Stats Readme
 
+permissions:
+  contents: write
+
 on:
   workflow_dispatch:
+  push:
+    branches:
+      - main
   schedule:
     # Runs every 2 hours
     - cron: "0 */2 * * *"
+  
 
 jobs:
+  devcard:
+    runs-on: ubuntu-latest
   update-readme:
     name: Update this repo's README
     runs-on: ubuntu-latest
@@ -14,3 +23,7 @@ jobs:
       - uses: athul/waka-readme@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+      - name: devcard
+        uses: dailydotdev/action-devcard@2.0.2
+        with:
+          devcard_id: ${{ secrets.DEVCARD_ID }}
