@@ -52,7 +52,7 @@ During the last years, I assisted +2,900 clients and +900 different companies an
 </details>
 <a href="https://app.daily.dev/Joseva"><img src="https://api.daily.dev/devcards/c929b62193854152b78ef125e8a52277.png?r=fu5" width="400" alt="José Valenzuela's Dev Card"/></a>
 
-<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/Jose1i1o/Jose1i1o/blob/master/devcard.svg" width="400" alt="Chris Bongers's Dev Card"/></a>
+<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/Jose1i1o/Jose1i1o/blob/main/devcard.svg" width="400" alt="Jose Valenzuela Dev Card"/></a>
 
 
 [linkedin]: https://www.linkedin.com/in/jose--valenzuela/
