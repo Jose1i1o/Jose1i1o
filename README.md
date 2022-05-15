@@ -50,7 +50,6 @@ During the last years, I assisted +2,900 clients and +900 different companies an
     <img src="https://wakatime.com/share/@Jose1i1o/e2aa477e-4019-4816-8258-6dca086fdb95.svg" height="400"/>
   </p>
 </details>
-<a href="https://app.daily.dev/Joseva"><img src="https://api.daily.dev/devcards/c929b62193854152b78ef125e8a52277.png?r=fu5" width="400" alt="José Valenzuela's Dev Card"/></a>
 
 <a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/Jose1i1o/Jose1i1o/blob/main/devcard.svg" width="400" alt="Jose Valenzuela Dev Card"/></a>
 
