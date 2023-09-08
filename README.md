@@ -4,12 +4,12 @@
 
 - 🔭 I’m currently working at [Assembler Institute of Technology](https://www.linkedin.com/school/assembler-institute-technology/) since Feb ´22.
 
-I have work experience in a very international environment together with an excellent resource, team and time management skills. My goal is to achieve the greatest impact in the shortest possible time. Agile, decisive, strategic and innovative and at the same time an entrepreneur, hard worker, empathic and multitasker.
+I have work experience in a very international environment together with excellent resource, team and time management skills. My goal is to achieve the greatest impact in the shortest possible time. Agile, decisive, strategic and innovative and at the same time an entrepreneur, hard worker, empathic and multitasker.
 
-During the last years, I assisted +2,900 clients and +900 different companies and allies. I have experience in team management, managing projects from the feasibility stage, consultations, to approval for start-up, contract negotiation, IT knowledge in a wide range of languages, marketing, delivery, commission and start.
+During the last years, I assisted +2,900 clients, +900 different companies and allies and +300 students. I have experience in team management, managing projects from the feasibility stage, consultations, approval for start-up, contract negotiation, IT knowledge in various languages, marketing, delivery, commission and start.
 <br />
 <br />
-- 🌱 I’m currently learning **everything. The next step will be next.js, laravel (digging deeper) and typescript.**
+- 🌱 I’m currently learning **everything. The next steps are being Kubernetes, Docker, GraphQL and React Native (digging deeper).**
 
 - 👯 I’ve worked in several e-commerce projects both national and international (ask for details)**
 
@@ -19,7 +19,7 @@ During the last years, I assisted +2,900 clients and +900 different companies an
 
 - 💬 What are my areas of interest and expertise? **👨🏻‍🎤 Software Development | 🚀 E-commerce & Digital | 📊 Data Analyst | 🕊 Graphic Design | 👨‍⚖️ Project Management | 💼 Business Development & Strategic Implementation | 👨‍👩‍👧‍👦 People & Talent Management**
 
-- 🌎 World Traveler. Last 14 years I lived, either working or studying, in Spain, Ireland, Scotland, Germany, Denmark and England. I really do enjoy different cultures and people from all walks of life.
+- 🌎 World Traveler. I lived, either working or studying, in Spain, Ireland, Scotland, Germany, Denmark and England. I really do enjoy different cultures and people from all walks of life.
 
 - ⚡ Fun fact: **I once fought against a wild boar 🐗**
 
