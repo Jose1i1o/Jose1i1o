@@ -1,6 +1,6 @@
   <h2 align="center">Hi 👋, I'm Jose <br />EMBA | BI | Full-Stack Dev[wip]</h2>
 
-<a href=""><img src="https://res.cloudinary.com/devrldmmc/image/upload/v1694194144/personal/Sin_ti%CC%81tulo-1.webp" width="1200" type="image"></a>
+<a href=""><img src="https://res.cloudinary.com/devrldmmc/image/upload/q_100/v1694194531/Sin_ti%CC%81tulo-1.webp" type="image"></a>
 
 - 🔭 I’m currently working at [Assembler Institute of Technology](https://www.linkedin.com/school/assembler-institute-technology/) since Feb ´22.
 
