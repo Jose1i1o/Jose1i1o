@@ -2,7 +2,7 @@
 
 <a href=""><img src="https://res.cloudinary.com/devrldmmc/image/upload/q_100/v1694194531/Sin_ti%CC%81tulo-1.webp" width="1200px" type="image"></a>
 
-- 🔭 I’m currently working at [Assembler Institute of Technology](https://www.linkedin.com/school/assembler-institute-technology/) since Feb ´22.
+- 🔭 I’m currently working at [Bemobile](https://bemobile.es) as a frontend developer.
 
 I have work experience in a very international environment together with excellent resource, team and time management skills. My goal is to achieve the greatest impact in the shortest possible time. Agile, decisive, strategic and innovative and at the same time an entrepreneur, hard worker, empathic and multitasker.
 
