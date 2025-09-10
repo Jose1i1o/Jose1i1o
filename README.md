@@ -1,4 +1,4 @@
-  <h2 align="center">Hi 👋, I'm Jose <br />EMBA | BI | Full-Stack Dev[wip]</h2>
+  <h2 align="center">Hi 👋, I'm Jose <br />Full-Stack Dev | EMBA | BI</h2>
 
 <a href=""><img src="https://res.cloudinary.com/devrldmmc/image/upload/q_100/v1694194531/Sin_ti%CC%81tulo-1.webp" width="1200px" type="image"></a>
 
