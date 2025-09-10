@@ -36,6 +36,15 @@ During the last years, I assisted +2,900 clients, +900 different companies and a
 
 ---
 <details>
+<summary>Some other contributions to GitHub not displayed in this account...</summary>
+  <p align="center">
+    <img width="1010" height="597" alt="image" src="https://github.com/user-attachments/assets/6f66fb9d-20fe-4f68-b499-ad483988cd25" alt="Scopely 2024" />
+  </p>
+  <p align="center">
+    <img width="1012" height="582" alt="image" src="https://github.com/user-attachments/assets/6dc9a830-b6ba-48f5-9988-5470505270dd" alt="Scopely 2025" />
+  </p>
+</details>
+<details>
 <summary>Github Statistics...</summary>
   <p align="center">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=jose1i1o&show_icons=true&locale=en" alt="jose1i1o" />
@@ -52,6 +61,5 @@ During the last years, I assisted +2,900 clients, +900 different companies and a
 </details>
 
 <a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/Jose1i1o/Jose1i1o/blob/main/devcard.svg" width="400" alt="Jose Valenzuela Dev Card"/></a>
-
 
 [linkedin]: https://www.linkedin.com/in/jose--valenzuela/
